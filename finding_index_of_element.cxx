@@ -27,9 +27,9 @@ int * find_Index(int arr[], int num){
 
 int main(){
     int sum_num, arr[6];
-    cout<<"entter number"<<endl;
+    cout<<"enter number"<<endl;
     cin>>sum_num;
-    cout<<"Enter Arrya"<<endl;
+    cout<<"Enter Array"<<endl;
     for(int i=0; i<6; i++){
         cin>>arr[i];
     }
